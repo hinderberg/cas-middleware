@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/hinderberg/cas-middleware",
   "dependencies": {
+    "route-pattern": "0.0.6",
     "superagent": "0.14.6",
     "xml2js": "0.4.0"
   }
